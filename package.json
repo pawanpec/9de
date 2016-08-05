@@ -1,0 +1,27 @@
+{
+  "name": "9de",
+  "version": "0.1.0",
+  "description": "A simple utility module which will make life of 9de developer easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawanpec/9de.git"
+  },
+  "keywords": [
+    "node",
+    "mongo"
+  ],
+  "author": "Pawan Kumar Goyal <pawanpec@gmail.com> (http://schoolspedia.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawanpec/9de/issues"
+  },
+  "homepage": "https://github.com/pawanpec/9de#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.1"
+  }
+}
