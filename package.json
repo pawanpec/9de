@@ -4,7 +4,7 @@
   "description": "A simple utility module which will make life of 9de developer easy.",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter nyan"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,12 @@
     "mongo"
   ],
   "author": "Pawan Kumar Goyal <pawanpec@gmail.com> (http://schoolspedia.com)",
-  "license": "ISC",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pawanpec/9de/blob/master/LICENSE-MIT"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/pawanpec/9de/issues"
   },

@@ -9,7 +9,7 @@ A small library providing utility methods to `escape` and `unescape` HTML entiti
 
 ## Usage
 
-  var nodeUtil = require('9de')
+  var nodeUtil = require('9de');
       escape = nodeUtil.escape,
       unescape = nodeUtil.unescape;
 
